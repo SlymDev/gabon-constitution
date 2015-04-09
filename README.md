@@ -3,11 +3,11 @@ La constitution Gabonaise
 
 La constitution Gabonaise sous __Git__.
 
+> Vous n'avez jamais lu le moindre article de la constitution ? Maintenant vous n'avez plus d'excuse pour ne pas le faire.
+
 Cet ouvrage est une reprise du texte (Révisée par la Loi n° 13/2003 du 19 août 2003) de la __Constitution Gabonaise__ sous un format plus adapté au monde du numérique. 
 
-Ce projet s'inscrit dans une volonté des jeunes Gabonais et africains en général, de batir des états modernes avec des institutions fortes et une transparence dans la gouvernance.
-
-Vous n'avez jamais lu le moindre article de la constitution ? Maintenant vous n'avez plus d'excuse pour ne pas le faire.
+Ce projet s'inscrit dans une volonté des jeunes Gabonais et Africains en général, de bâtir des états modernes avec des institutions fortes et plus de transparence dans la gouvernance.
 
 
 ### A propos
@@ -16,13 +16,14 @@ __Git__
 
 Est un outil courament utilisé dans le monde de la programmation informatique pour gérer les versions du code source des applications. 
 
-> Git permet non seulement de visionner les sources a un instant T (snapshot), mais surtout de visualiser facilement les changements dans ces sources (commits). 
+> Git permet non seulement de visionner les sources a un instant T (snapshot), mais surtout de visualiser facilement les changements dans ces sources (commits), ou encore de créer de nouvelles branches à partir de l'existant. 
 
-C'est un puissant dont les applications peuvent aller au delà du monde de l'informatique. Appliqué aux textes tels que la __constiitution__, il peut facilement contribuer à répondre une exigence de modernité et de transparence qui va avec de pair avec notre époque.
+C'est un puissant outil dont les applications peuvent aller au delà du monde de l'informatique. Appliqué aux textes tels que  __la constitution__, il peut facilement contribuer à répondre une exigence de modernité et de transparence dans la grouvernance de notre époque.
 
 __Le Lab-241__  
 
-Est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soiet-elles) qui contribuent au dévéloppement du Gabon 
+Est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soient-elles) qui contribuent au développement du Gabon. Le lab s'inscrit dans la dynamique des mouvements jeunes Africains qui veulent contribuer à l'essort d'une nouvelle Afrique.
+
 
 __Liens utilies__
 
