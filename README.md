@@ -1,11 +1,9 @@
 La constitution Gabonaise
 =======
 
-
-| Revision | Date |
-| -- | -- |
-| Loi n° 047/2010 | 12 janvier 2011 |
-
+Revision        | Date            |
+--------------- | --------------- |
+Loi n° 047/2010 | 12 janvier 2011
 
 #### La constitution Gabonaise sous __Git__.
 
@@ -33,16 +31,10 @@ __Liens utilies__
 
 * [Wikipedia - Git](https://fr.wikipedia.org/wiki/Git)
 * [Wikipedia - Gabon](https://fr.wikipedia.org/wiki/Gabon)
-* [Contitution PDF](http://democratie.francophonie.org/IMG/pdf/Gabon.pdf) (Loi n° 13/2003 du 19 août 2003)
+* [Github du projet](https://github.com/africalab/gabon-constitution)
+* [Lab-241](https://www.facebook.com/pages/Lab-241/141236286012661?ref=hl)
 
 __Remerciements à__
 
-
 * [@steeve](http://twitter.com/steeve) Qui a réalisé le [code civil français sous git](https://github.com/steeve/france.code-civil)
 * [@SamyPesse](https://twitter.com/SamyPesse) : Co-fondateur de GitBook. 
-
-__LICENSE__
-
-Tous les fichiers sont sous license [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
-
-
